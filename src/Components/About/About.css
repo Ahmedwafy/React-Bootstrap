@@ -1,0 +1,9 @@
+
+.about-container {
+    height: 100vh; /* Set the container height to 100% of the viewport */
+    background-color: #D1E9F6; /* Replace with your desired background color */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }

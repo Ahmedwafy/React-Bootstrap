@@ -1,0 +1,10 @@
+.col1 {
+    /* background-color: blue; */
+}
+
+.Card {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    text-align: center;
+}
